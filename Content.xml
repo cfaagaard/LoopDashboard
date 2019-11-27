@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Content baseUrl="https://github.com">
-  <ContentItem>
-    <Repository>LoopKit/Loop</Repository>
-    <ContentType>commits</ContentType>
-    <Branch>dev</Branch>
-  </ContentItem>
-    <ContentItem>
-      <Repository>LoopKit/Loop</Repository>
-      <ContentType>commits</ContentType>
-      <Branch>master</Branch>
-  </ContentItem>
-    <ContentItem>
-      <Repository>LoopKit/CGMBLEKit</Repository>
-      <ContentType>commits</ContentType>
-      <Branch>dev</Branch>
-  </ContentItem>
+<Content baseUrl="https://github.com" contentType="commits">
+  <GithubUser user="LoopKit">
+    <Repository name="Loop" branch="dev"/>
+    <Repository name="Loop" branch="master"/>
+    <Repository name="CGMBLEKit" branch="dev"/>
+  </GithubUser>
 </Content>
