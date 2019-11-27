@@ -4,5 +4,24 @@
     <Repository name="Loop" branch="dev"/>
     <Repository name="Loop" branch="master"/>
     <Repository name="CGMBLEKit" branch="dev"/>
+    <Repository name="dexcom-share-client-swift" branch="dev"/>
+    <Repository name="G4ShareSpy" branch="dev"/>
+    <Repository name="LoopKit" branch="dev"/>
+    <Repository name="loopdocs" branch="master"/>
+  </GithubUser>
+    <GithubUser user="ps2">
+        <Repository name="rileylink_ios" branch="dev"/>
+  </GithubUser>
+    <GithubUser user="tidepool-org">
+        <Repository name="Loop" branch="dev"/>
+        <Repository name="CGMBLEKit" branch="dev"/>
+        <Repository name="dexcom-share-client-swift" branch="dev"/>
+        <Repository name="G4ShareSpy" branch="dev"/>
+        <Repository name="LoopKit" branch="dev"/>
+        <Repository name="AmplitudeService" branch="dev"/>
+       <Repository name="LogglyService" branch="dev"/>
+       <Repository name="NightscoutService" branch="dev"/>
+       <Repository name="TidepoolService" branch="dev"/>
+       <Repository name="dexcom-share-client-swift" branch="dev"/>
   </GithubUser>
 </Content>
