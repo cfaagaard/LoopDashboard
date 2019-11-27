@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content>
+  <ContentItem>
+    <Url>https://github.com/LoopKit/Loop</Url>
+    <ContentType>Commits</ContentType>
+    <Branch>dev</Branch>
+  </ContentItem>
+    <ContentItem>
+    <Url>https://github.com/LoopKit/Loop</Url>
+    <ContentType>Commits</ContentType>
+    <Branch>master</Branch>
+  </ContentItem>
+</Content>
