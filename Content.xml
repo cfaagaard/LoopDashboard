@@ -2,12 +2,12 @@
 <Content>
   <ContentItem>
     <Url>https://github.com/LoopKit/Loop</Url>
-    <ContentType>Commits</ContentType>
+    <ContentTypec>commits</ContentType>
     <Branch>dev</Branch>
   </ContentItem>
     <ContentItem>
     <Url>https://github.com/LoopKit/Loop</Url>
-    <ContentType>Commits</ContentType>
+    <ContentType>commits</ContentType>
     <Branch>master</Branch>
   </ContentItem>
 </Content>
