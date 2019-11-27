@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Content>
+<Content baseUrl="https://github.com">
   <ContentItem>
-    <Url>https://github.com/LoopKit/Loop</Url>
+    <Repository>https://github.com/LoopKit/Loop</Repository>
     <ContentTypec>commits</ContentType>
     <Branch>dev</Branch>
   </ContentItem>
     <ContentItem>
-    <Url>https://github.com/LoopKit/Loop</Url>
+    <Repository>LoopKit/Loop</Repository>
     <ContentType>commits</ContentType>
     <Branch>master</Branch>
   </ContentItem>
