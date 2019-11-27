@@ -2,7 +2,7 @@
 <Content baseUrl="https://github.com">
   <ContentItem>
     <Repository>https://github.com/LoopKit/Loop</Repository>
-    <ContentType>commits</ContentType>
+    <ContentType>cvommits</ContentType>
     <Branch>dev</Branch>
   </ContentItem>
     <ContentItem>
