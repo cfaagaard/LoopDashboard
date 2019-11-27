@@ -2,12 +2,12 @@
 <Content baseUrl="https://github.com">
   <ContentItem>
     <Repository>https://github.com/LoopKit/Loop</Repository>
-    <ContentTypec>commits</ContentType>
+    <ContentType>commits</ContentType>
     <Branch>dev</Branch>
   </ContentItem>
     <ContentItem>
-    <Repository>LoopKit/Loop</Repository>
-    <ContentType>commits</ContentType>
-    <Branch>master</Branch>
+      <Repository>LoopKit/Loop</Repository>
+      <ContentType>commits</ContentType>
+      <Branch>master</Branch>
   </ContentItem>
 </Content>
