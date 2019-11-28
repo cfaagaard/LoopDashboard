@@ -8,6 +8,7 @@
     <Repository name="G4ShareSpy" branch="dev"/>
     <Repository name="LoopKit" branch="dev"/>
     <Repository name="loopdocs" branch="master"/>
+    <Repository name="LoopWorkspace" branch="dev"/>
   </GithubUser>
     <GithubUser user="ps2">
         <Repository name="rileylink_ios" branch="dev"/>
@@ -23,5 +24,6 @@
        <Repository name="NightscoutService" branch="dev"/>
        <Repository name="TidepoolService" branch="dev"/>
        <Repository name="dexcom-share-client-swift" branch="dev"/>
+       <Repository name="LoopWorkspace" branch="dev"/>
   </GithubUser>
 </Content>
