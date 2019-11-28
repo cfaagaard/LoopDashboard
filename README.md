@@ -10,3 +10,5 @@ If you wish to provide feedback, please create an issue.
 
 
 Thank you.
+
+The loopdashboard is created with Microsoft Power Bi.
