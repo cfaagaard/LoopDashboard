@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/scr/.vs/LoopDashboard
+/scr/LoopDashboardWebsite/bin/Debug/netcoreapp3.0
+/scr/LoopDashboardWebsite/obj
