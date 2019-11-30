@@ -10,6 +10,10 @@
     <Repository name="loopdocs" branch="master"/>
     <Repository name="LoopWorkspace" branch="dev"/>
   </GithubUser>
+  <GithubUser user="cyoung1024">
+      <Repository name="Loop" branch="dev-spike"/>
+      <Repository name="Loop" branch="spike-master"/>
+  </GithubUser>
     <GithubUser user="ps2">
         <Repository name="rileylink_ios" branch="dev"/>
   </GithubUser>
