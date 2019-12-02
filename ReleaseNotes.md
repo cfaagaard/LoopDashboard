@@ -1,7 +1,8 @@
 
 # Version 1.1 - 2.12.2019
 - Included looptips repository
-- included all dev and master branches from loopkit
+- Included all dev and master branches from loopkit
+- Included cyoung1024 repositories
 - Categorized each repository in: Loop, Docs, Loop-Libre or Tidepool and added the category as a filter option
 - Created a nicer Logo (Loop/Github)
 - Removed all Danish words
