@@ -14,7 +14,10 @@
       <Repository name="Loop" branch="dev-spike"/>
       <Repository name="Loop" branch="spike-master"/>
   </GithubUser>
-    <GithubUser user="ps2">
+    <GithubUser user="Kdisimone">
+      <Repository name="looptips" branch="mast"/>
+  </GithubUser>
+  <GithubUser user="ps2">
         <Repository name="rileylink_ios" branch="dev"/>
   </GithubUser>
     <GithubUser user="tidepool-org">
