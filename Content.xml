@@ -15,28 +15,8 @@
     <Repository name="loopdocs" branch="master" Category="Docs"/>
     <Repository name="LoopWorkspace" branch="dev" Category="Loop"/>
   </GithubUser>
-  <GithubUser user="cyoung1024">
-      <Repository name="Loop" branch="dev-spike"  Category="Loop-Libre"/>
-      <Repository name="Loop" branch="spike-master" Category="Loop-Libre"/>
-  </GithubUser>
-    <GithubUser user="Kdisimone">
-      <Repository name="looptips" branch="master" Category="Docs"/>
-  </GithubUser>
   <GithubUser user="ps2">
         <Repository name="rileylink_ios" branch="dev" Category="Loop"/>
-        <Repository name="rileylink_ios" branch="dev" Category="Loop"/>
-  </GithubUser>
-    <GithubUser user="tidepool-org">
-        <Repository name="Loop" branch="dev" Category="Tidepool"/>
-        <Repository name="CGMBLEKit" branch="dev" Category="Tidepool"/>
-        <Repository name="dexcom-share-client-swift" branch="dev" Category="Tidepool"/>
-        <Repository name="G4ShareSpy" branch="dev" Category="Tidepool"/>
-        <Repository name="LoopKit" branch="dev" Category="Tidepool"/>
-        <Repository name="AmplitudeService" branch="dev" Category="Tidepool"/>
-       <Repository name="LogglyService" branch="dev" Category="Tidepool"/>
-       <Repository name="NightscoutService" branch="dev" Category="Tidepool"/>
-       <Repository name="TidepoolService" branch="dev" Category="Tidepool"/>
-       <Repository name="dexcom-share-client-swift" branch="dev" Category="Tidepool"/>
-       <Repository name="LoopWorkspace" branch="dev" Category="Tidepool"/>
+        <Repository name="rileylink_ios" branch="master" Category="Loop"/>
   </GithubUser>
 </Content>
