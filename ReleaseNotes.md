@@ -1,3 +1,11 @@
+
+# Version 1.1 - 30.11.2019
+- Included looptips repository
+- included all dev and master branches from loopkit
+- Categorized each repository in: Loop, Docs, Loop-Libre or Tidepool and added the category as a filter option
+- Created a nicer Logo (Loop/Github)
+- Removed all Danish words
+
 # Version 1.0 - 30.11.2019
 
 Purpose: 
@@ -13,3 +21,4 @@ Features:
 - page 5: some statistics on all activities. (very simple)
 
 On all pages one can filter the lists. 
+
