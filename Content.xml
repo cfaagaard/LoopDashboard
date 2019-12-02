@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Content contentType="commits">
   <GithubUser user="LoopKit">
-    <Repository name="Loop" branch="master" Category="Loop-Master"/>
-    <Repository name="CGMBLEKit" branch="master" Category="Loop-Master"/>
-    <Repository name="dexcom-share-client-swift" branch="master" Category="Loop-Master"/>
-    <Repository name="G4ShareSpy" branch="master" Category="Loop-Master"/>
-    <Repository name="LoopKit" branch="master" Category="Loop-Master"/>
-    <Repository name="LoopWorkspace" branch="master" Category="Loop-Master"/>
-    <Repository name="Loop" branch="dev" Category="Loop-Dev"/>
-    <Repository name="CGMBLEKit" branch="dev" Category="Loop-Dev"/>
-    <Repository name="dexcom-share-client-swift" branch="dev" Category="Loop-Dev"/>
-    <Repository name="G4ShareSpy" branch="dev" Category="Loop-Dev"/>
-    <Repository name="LoopKit" branch="dev" Category="Loop-Dev"/>
+    <Repository name="Loop" branch="master" Category="Loop"/>
+    <Repository name="CGMBLEKit" branch="master" Category="Loop"/>
+    <Repository name="dexcom-share-client-swift" branch="master" Category="Loop"/>
+    <Repository name="G4ShareSpy" branch="master" Category="Loop"/>
+    <Repository name="LoopKit" branch="master" Category="Loop"/>
+    <Repository name="LoopWorkspace" branch="master" Category="Loop"/>
+    <Repository name="Loop" branch="dev" Category="Loop"/>
+    <Repository name="CGMBLEKit" branch="dev" Category="Loop"/>
+    <Repository name="dexcom-share-client-swift" branch="dev" Category="Loop"/>
+    <Repository name="G4ShareSpy" branch="dev" Category="Loop"/>
+    <Repository name="LoopKit" branch="dev" Category="Loop"/>
     <Repository name="loopdocs" branch="master" Category="Docs"/>
-    <Repository name="LoopWorkspace" branch="dev" Category="Loop-Dev"/>
+    <Repository name="LoopWorkspace" branch="dev" Category="Loop"/>
   </GithubUser>
   <GithubUser user="cyoung1024">
       <Repository name="Loop" branch="dev-spike"  Category="Loop-Libre"/>
@@ -23,20 +23,20 @@
       <Repository name="looptips" branch="master" Category="Docs"/>
   </GithubUser>
   <GithubUser user="ps2">
-        <Repository name="rileylink_ios" branch="dev" Category="Loop-Dev"/>
-        <Repository name="rileylink_ios" branch="dev" Category="Loop-Master"/>
+        <Repository name="rileylink_ios" branch="dev" Category="Loop"/>
+        <Repository name="rileylink_ios" branch="dev" Category="Loop"/>
   </GithubUser>
     <GithubUser user="tidepool-org">
-        <Repository name="Loop" branch="dev" Category="Tidepool-Dev"/>
-        <Repository name="CGMBLEKit" branch="dev" Category="Tidepool-Dev"/>
-        <Repository name="dexcom-share-client-swift" branch="dev" Category="Tidepool-Dev"/>
-        <Repository name="G4ShareSpy" branch="dev" Category="Tidepool-Dev"/>
-        <Repository name="LoopKit" branch="dev" Category="Tidepool-Dev"/>
-        <Repository name="AmplitudeService" branch="dev" Category="Tidepool-Dev"/>
-       <Repository name="LogglyService" branch="dev" Category="Tidepool-Dev"/>
-       <Repository name="NightscoutService" branch="dev" Category="Tidepool-Dev"/>
-       <Repository name="TidepoolService" branch="dev" Category="Tidepool-Dev"/>
-       <Repository name="dexcom-share-client-swift" branch="dev" Category="Tidepool-Dev"/>
-       <Repository name="LoopWorkspace" branch="dev" Category="Tidepool-Dev"/>
+        <Repository name="Loop" branch="dev" Category="Tidepool"/>
+        <Repository name="CGMBLEKit" branch="dev" Category="Tidepool"/>
+        <Repository name="dexcom-share-client-swift" branch="dev" Category="Tidepool"/>
+        <Repository name="G4ShareSpy" branch="dev" Category="Tidepool"/>
+        <Repository name="LoopKit" branch="dev" Category="Tidepool"/>
+        <Repository name="AmplitudeService" branch="dev" Category="Tidepool"/>
+       <Repository name="LogglyService" branch="dev" Category="Tidepool"/>
+       <Repository name="NightscoutService" branch="dev" Category="Tidepool"/>
+       <Repository name="TidepoolService" branch="dev" Category="Tidepool"/>
+       <Repository name="dexcom-share-client-swift" branch="dev" Category="Tidepool"/>
+       <Repository name="LoopWorkspace" branch="dev" Category="Tidepool"/>
   </GithubUser>
 </Content>
