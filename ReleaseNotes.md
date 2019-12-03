@@ -1,4 +1,4 @@
-# Version 1.2 - 2.12.2019
+# Version 1.2 - 3.12.2019
 - Removed some repositories in order to support only the “official” Loop repositories. This is done so people do not get confused about what is officially supported.
 - Did some UI clean-up in order to make the UI simpler.
 
