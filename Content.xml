@@ -12,7 +12,6 @@
     <Repository name="dexcom-share-client-swift" branch="dev" Category="Loop"/>
     <Repository name="G4ShareSpy" branch="dev" Category="Loop"/>
     <Repository name="LoopKit" branch="dev" Category="Loop"/>
-    <Repository name="loopdocs" branch="master" Category="Docs"/>
     <Repository name="LoopWorkspace" branch="dev" Category="Loop"/>
   </GithubUser>
   <GithubUser user="ps2">
