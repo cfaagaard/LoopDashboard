@@ -6,3 +6,5 @@
 /scr/.vs/LoopDashboard
 /scr/LoopDashboardWebsite/bin/Debug/netcoreapp3.0
 /scr/LoopDashboardWebsite/obj
+/scr/LoopDashboardWebsite/bin/Release/netcoreapp3.0
+/scr/LoopDashboardWebsite/.config
