@@ -4,7 +4,6 @@
     <Repository name="Loop" branch="dev" Category="Tidepool-Loop"/>
     <Repository name="LoopKit" branch="dev" Category="Tidepool-Loop"/>
     <Repository name="DashKit" branch="dev" Category="Tidepool-Loop"/>
-    <Repository name="dexcom-icgm-loop-plugin" branch="dev" Category="Tidepool-Loop"/>
     <Repository name="G4ShareSpy" branch="dev" Category="Tidepool-Loop"/>
     <Repository name="CGMBLEKit" branch="dev" Category="Tidepool-Loop"/>
     <Repository name="dexcom-share-client-swift" branch="dev" Category="Tidepool-Loop"/>
